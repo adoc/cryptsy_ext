@@ -25,7 +25,7 @@ setup(name='cryptsy_ext',
         "Natural Language :: English"
         ],
       keywords='',
-      packages=('cryptsy_ext', 'pusherclient'),
+      packages=('cryptsy_ext', 'pusherclient', 'thredis'),
       # scripts=(''),
       include_package_data=True,
       zip_safe=False,
